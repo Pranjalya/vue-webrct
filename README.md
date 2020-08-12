@@ -1,4 +1,4 @@
-# temp
+# Vue-WebRTC
 
 ## Project setup
 ```
